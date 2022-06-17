@@ -9,7 +9,7 @@
   "author": "Dinokaiz2",
   "license": "MIT",
   "dependencies": {
-    "electron": "^5.0.1",
+    "electron": "^15.5.5",
     "exceljs": "^1.11.0",
     "fitty": "^2.2.6",
     "howler": "^2.1.2"
